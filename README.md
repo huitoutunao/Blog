@@ -6,3 +6,4 @@
 
 1. [模拟实现 instanceof](https://github.com/huitoutunao/Blog/issues/1)
 2. [模拟实现 call、apply 和 bind](https://github.com/huitoutunao/Blog/issues/2)
+3. [模拟实现 new](https://github.com/huitoutunao/Blog/issues/3)
