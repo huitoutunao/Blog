@@ -8,4 +8,4 @@
 2. [模拟实现 call、apply 和 bind](https://github.com/huitoutunao/Blog/issues/2)
 3. [模拟实现 new](https://github.com/huitoutunao/Blog/issues/3)
 4. [数组去重](https://github.com/huitoutunao/Blog/issues/4)
-5. [阅读 Lodash 源码学防抖](https://github.com/huitoutunao/Blog/issues/5)
+5. [阅读 lodash 源码学防抖](https://github.com/huitoutunao/Blog/issues/5)
