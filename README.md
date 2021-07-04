@@ -11,3 +11,4 @@
 5. [阅读 lodash 源码学防抖](https://github.com/huitoutunao/Blog/issues/5)
 6. [阅读 lodash 源码学节流](https://github.com/huitoutunao/Blog/issues/7)
 7. [类型判断](https://github.com/huitoutunao/Blog/issues/8)
+8. [深拷贝](https://github.com/huitoutunao/Blog/issues/9)
