@@ -12,3 +12,4 @@
 6. [阅读 lodash 源码学节流](https://github.com/huitoutunao/Blog/issues/7)
 7. [类型判断](https://github.com/huitoutunao/Blog/issues/8)
 8. [深拷贝](https://github.com/huitoutunao/Blog/issues/9)
+9. [如何求数组的最大值](https://github.com/huitoutunao/Blog/issues/10)
